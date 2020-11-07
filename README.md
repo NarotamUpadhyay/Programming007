@@ -1,2 +1,6 @@
 # Programming007
-Hlo there, This a simple repository I made this to store my projects. 
+Hlo there,My self Narotam upadhyay. 
+I am a coding beginner and learning python
+which is my first language.
+            Have a great day
+print ("hello world")
